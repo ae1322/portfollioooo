@@ -6,7 +6,7 @@ export const personalInfo = {
   role: " Frontend Developer",
   tagline: "I build clean, elegant, and modern web experiences.",
   bio: "I am a passionate frontend developer specializing in building visually stunning, accessible, and high-performance user interfaces. With over 5 years of industry experience, I focus on turning complex technical challenges into simple, pixel-perfect digital solutions.",
-  avatar: "/src/assets/aravind.jpeg",
+  avatar: "/aravind.jpeg",
   email: "mailstoaravind13@gmail.com",
   location: "chennai, India",
   cvUrl: "/Aravind_cv.pdf", // Path to your actual resume file in the public folder (e.g. public/Aravind_cv.pdf)
